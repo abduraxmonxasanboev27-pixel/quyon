@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.katak {
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    border: 5px dashed black;
+    position: relative;
+}
+
+.quyon {
+    width: 200px;
+}
+
+.sabzi {
+    width: 50px;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    border-radius: 10px;
+    margin: 3px;
+}
